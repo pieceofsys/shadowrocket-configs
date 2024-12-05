@@ -1,5 +1,6 @@
 #DIRECT
 DOMAIN-SUFFIX,ru
+DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-KEYWORD,kinopoisk
 DOMAIN-KEYWORD,yandex
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,ikar.aero
 DOMAIN-SUFFIX,meridian-avia.com
 DOMAIN-SUFFIX,northwest.aero
 DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,pegasfly.com
 DOMAIN-SUFFIX,polar.aero
 DOMAIN-SUFFIX,pobeda.aero
