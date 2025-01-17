@@ -1,8 +1,8 @@
 # NAME: Template config for Shadowrocket
 # AUTHOR: pieceofsys
 # REPO: https://github.com/pieceofsys/shadowrocket-configs
-# UPDATED: 2025-01-17 10:45:00
+# UPDATED: 2025-01-17 10:50:00
 # DOMAIN-SUFFIX: 2
 # TOTAL: 2
-DOMAIN-KEYWORD,1e100
+DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
