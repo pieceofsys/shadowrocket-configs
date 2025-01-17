@@ -1,2 +1,3 @@
 # Additional proxy rules
+DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
