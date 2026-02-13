@@ -1,7 +1,7 @@
 # NAME: Template config for Shadowrocket
 # AUTHOR: pieceofsys
 # REPO: https://github.com/pieceofsys/shadowrocket-configs
-# UPDATED: 2025-02-13 13:50:00
+# UPDATED: 2025-02-13 14:00:00
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
 DOMAIN-SUFFIX,1e100.net
