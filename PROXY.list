@@ -2,8 +2,9 @@
 # AUTHOR: pieceofsys
 # REPO: https://github.com/pieceofsys/shadowrocket-configs
 # UPDATED: 2025-02-13 13:50:00
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,radio.tvstitch.com
+DOMAIN-SUFFIX,onlineradiobox.com
