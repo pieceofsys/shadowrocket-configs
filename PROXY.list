@@ -1,9 +1,9 @@
 # NAME: Template config for Shadowrocket
 # AUTHOR: pieceofsys
 # REPO: https://github.com/pieceofsys/shadowrocket-configs
-# UPDATED: 2026-03-17 00:55:00
-# DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# UPDATED: 2026-03-31 12:22:00
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleapis.com
@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,ru-board.com
 DOMAIN-SUFFIX,hakaisecurity.io
 DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,nnmclub.to
