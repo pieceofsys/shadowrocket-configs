@@ -1,12 +1,11 @@
 # NAME: Custom proxy domains for Shadowrocket
 # AUTHOR: pieceofsys
 # UPDATED: 2026-08-21
-# DOMAIN-SUFFIX: 15
-# TOTAL: 15
 # Google / Android
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,android.googleapis.com
 DOMAIN-SUFFIX,yt3.googleusercontent.com
 # Radio
@@ -18,8 +17,11 @@ DOMAIN-SUFFIX,dnslytics.com
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,ru-board.com
 DOMAIN-SUFFIX,hakaisecurity.io
-# NNM
+# NNM + NNM resources
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nnmstatic.win
+DOMAIN-SUFFIX,fastpic.org
 # Cloudflare telemetry
 DOMAIN-SUFFIX,cloudflareinsights.com
+# Meshtastic
+DOMAIN-SUFFIX,meshtastic.org
