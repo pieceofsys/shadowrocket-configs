@@ -19,10 +19,12 @@ DOMAIN-SUFFIX,radio.tvstitch.com
 DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlineradiobox.net
 # Tools / misc
+DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,dnslytics.com
-DOMAIN-SUFFIX,ntc.party
-DOMAIN-SUFFIX,ru-board.com
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hakaisecurity.io
+DOMAIN-SUFFIX,ru-board.com
 # NNM + NNM resources
 DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnmclub.to
