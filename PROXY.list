@@ -36,4 +36,3 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,meshtastic.org
 # Some CDNs
 DOMAIN-SUFFIX,fastly.net
-
