@@ -30,8 +30,6 @@ DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nnmstatic.win
 DOMAIN-SUFFIX,fastpic.org
-# Cloudflare telemetry
-DOMAIN-SUFFIX,cloudflareinsights.com
 # Meshtastic
 DOMAIN-SUFFIX,meshtastic.org
 # Some CDNs
