@@ -32,5 +32,7 @@ DOMAIN-SUFFIX,nnmstatic.win
 DOMAIN-SUFFIX,fastpic.org
 # Meshtastic
 DOMAIN-SUFFIX,meshtastic.org
-# Some CDNs
+# Fastly infrastructure
+DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,edgecompute.app
