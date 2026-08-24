@@ -1,6 +1,6 @@
-# NAME: Custom proxy domains for Shadowrocket
-# AUTHOR: pieceofsys
-# UPDATED: 2026-08-23
+# Custom proxy domains for Shadowrocket
+# UPDATED: 2026-08-24
+
 # Google / Android
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
