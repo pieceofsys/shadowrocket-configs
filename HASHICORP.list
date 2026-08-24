@@ -1,26 +1,9 @@
-# NAME: HashiCorp
+# NAME: HashiCorp / Terraform
 # UPDATED: 2026-08-24
 
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,hashicorp.io
+DOMAIN-SUFFIX,terraform.io
 
-DOMAIN,registry.terraform.io
-DOMAIN,app.terraform.io
-DOMAIN,app.eu.terraform.io
-DOMAIN,archivist.terraform.io
-DOMAIN,agents.terraform.io
-
-DOMAIN,releases.hashicorp.com
-DOMAIN,api.releases.hashicorp.com
-DOMAIN,rpm.releases.hashicorp.com
-DOMAIN,apt.releases.hashicorp.com
-DOMAIN,helm.releases.hashicorp.com
-
-DOMAIN,install.terraform.io
-
-DOMAIN,checkpoint-api.hashicorp.com
-DOMAIN,checkpoint.hashicorp.com
-
-DOMAIN-SUFFIX,localterraform.com
-
+# Terraform Registry search
 DOMAIN,yy0ffni7mf-dsn.algolia.net
