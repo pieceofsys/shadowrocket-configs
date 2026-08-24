@@ -1,5 +1,6 @@
-# Cloudflare
-# https://api.cloudflare.com/local-ip-ranges.csv
+# Cloudflare (https://api.cloudflare.com/local-ip-ranges.csv)
+# UPDATED: 2026-08-24
+
 IP-CIDR,173.245.48.0/20
 IP-CIDR,103.21.244.0/22
 IP-CIDR,103.22.200.0/22
