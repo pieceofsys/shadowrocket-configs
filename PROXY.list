@@ -1,5 +1,5 @@
 # Custom proxy domains for Shadowrocket
-# UPDATED: 2026-08-24
+# UPDATED: 2026-08-26
 
 # Google / Android
 DOMAIN-SUFFIX,1e100.net
@@ -15,7 +15,17 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,2mdn.net
 # Apple
+DOMAIN,account.apple.com
+DOMAIN,api.apple-cloudkit.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,idmsa.apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,ppq.apple.com
+DOMAIN-SUFFIX,appattest.apple.com
+DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,mzstatic.com
 # Radio + music streaming
 DOMAIN-SUFFIX,radio.tvstitch.com
 DOMAIN-SUFFIX,onlineradiobox.com
