@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,2mdn.net
+# Apple
+DOMAIN-SUFFIX,itunes.apple.com
 # Radio + music streaming
 DOMAIN-SUFFIX,radio.tvstitch.com
 DOMAIN-SUFFIX,onlineradiobox.com
