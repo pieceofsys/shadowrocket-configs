@@ -23,8 +23,12 @@ DOMAIN,gsa.apple.com
 DOMAIN,ppq.apple.com
 DOMAIN-SUFFIX,appattest.apple.com
 DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,g.aaplimg.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,itunes.g.aaplimg.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 # Radio + music streaming
 DOMAIN-SUFFIX,radio.tvstitch.com
