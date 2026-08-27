@@ -33,7 +33,6 @@ DOMAIN-SUFFIX,onlineradiobox.net
 DOMAIN-SUFFIX,soundcloud.cloud
 # Tools / misc
 DOMAIN-SUFFIX,4pda.to
-DOMAIN-SUFFIX,dnslytics.com
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hakaisecurity.io
@@ -42,6 +41,7 @@ DOMAIN-SUFFIX,ru-board.com
 DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nnmstatic.win
+DOMAIN-SUFFIX,fastpic.ru
 DOMAIN-SUFFIX,fastpic.org
 # Meshtastic
 DOMAIN-SUFFIX,meshtastic.org
