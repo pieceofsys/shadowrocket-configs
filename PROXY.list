@@ -53,4 +53,6 @@ DOMAIN-SUFFIX,meshtastic.org
 # Fastly infrastructure
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastly-analytics.com
+DOMAIN-SUFFIX,u.fastly-analytics.com
 DOMAIN-SUFFIX,edgecompute.app
