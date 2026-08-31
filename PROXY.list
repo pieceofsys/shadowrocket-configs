@@ -58,3 +58,4 @@ DOMAIN-SUFFIX,u.fastly-analytics.com
 DOMAIN-SUFFIX,edgecompute.app
 # Some CDN`s
 DOMAIN-SUFFIX,cdn.zuora.com
+DOMAIN-SUFFIX,zuora.com
