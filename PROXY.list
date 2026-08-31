@@ -1,5 +1,5 @@
 # Custom proxy domains for Shadowrocket
-# UPDATED: 2026-08-26
+# UPDATED: 2026-08-31
 
 # Google / Android
 DOMAIN-SUFFIX,1e100.net
@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,u.fastly-analytics.com
 DOMAIN-SUFFIX,edgecompute.app
+# Some CDN`s
+DOMAIN-SUFFIX,cdn.zuora.com
