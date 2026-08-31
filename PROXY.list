@@ -1,23 +1,23 @@
 # Custom proxy domains for Shadowrocket
-# UPDATED: 2026-08-31
+# UPDATED: 2026-09-01
+
 
 # Google / Android
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,android.googleapis.com
 DOMAIN-SUFFIX,yt3.googleusercontent.com
+
 # Google Ads / DoubleClick
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,2mdn.net
+
 # Apple
 DOMAIN,account.apple.com
 DOMAIN,api.apple-cloudkit.com
-DOMAIN,appleid.cdn-apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,gsa.apple.com
 DOMAIN,ppq.apple.com
@@ -26,15 +26,18 @@ DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,g.aaplimg.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,itunes.g.aaplimg.com
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
+
 # Radio + music streaming
 DOMAIN-SUFFIX,radio.tvstitch.com
 DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlineradiobox.net
+DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,soundcloud.cloud
+DOMAIN-SUFFIX,sndcdn.com
+
 # Tools / misc
 DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,dnslytics.com
@@ -42,23 +45,26 @@ DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hakaisecurity.io
 DOMAIN-SUFFIX,ru-board.com
+
 # NNM + NNM resources
 DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nnmstatic.win
 DOMAIN-SUFFIX,fastpic.ru
 DOMAIN-SUFFIX,fastpic.org
+
 # Meshtastic
 DOMAIN-SUFFIX,meshtastic.org
+
 # Fastly infrastructure
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastly-analytics.com
-DOMAIN-SUFFIX,u.fastly-analytics.com
 DOMAIN-SUFFIX,edgecompute.app
-# Some CDN`s
-DOMAIN-SUFFIX,cdn.zuora.com
+
+# Zuora
 DOMAIN-SUFFIX,zuora.com
+
 # GitHub
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
