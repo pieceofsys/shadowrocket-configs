@@ -1,11 +1,51 @@
 # ============================================================
-# Fastly CDN
+# Fastly CDN / Edge Cloud
 #
-# IPv4 only because Shadowrocket config has ipv6=false.
-# IP rules intentionally do NOT use no-resolve.
+# Updated: 2026-09-30
+#
+# Sources:
+#   https://api.fastly.com/public-ip-list
+#   https://www.fastly.com/documentation/guides/concepts/routing-traffic-to-fastly/
+#
+# IMPORTANT:
+#   Do NOT add no-resolve to IP-CIDR rules.
+#
+# Purpose:
+#   - explicit Fastly hostnames -> PROXY immediately
+#   - custom customer domains hosted on Fastly
+#     -> DNS lookup -> Fastly IP match -> PROXY
+#
+# IPv6 intentionally omitted because Shadowrocket has ipv6=false.
 # ============================================================
 
+
+# ============================================================
+# FASTLY ASSIGNED / SERVICE DOMAINS
+# ============================================================
+
+# Covers:
+#   *.customer.fastly.net
+#   *.map.fastly.net
+#   *.sni.global.fastly.net
+#   *.shared.global.fastly.net
+#   *.global.ssl.fastly.net
+#   *.global.prod.fastly.net
+#   *.freetls.fastly.net
+#   nonssl.global.fastly.net
+#   nonssl.us-eu.fastly.net
 DOMAIN-SUFFIX,fastly.net
+
+# Fastly Compute assigned domains
+DOMAIN-SUFFIX,edgecompute.app
+
+
+# ============================================================
+# FASTLY OFFICIAL IPV4 RANGES
+#
+# NO no-resolve:
+# unknown customer hostname must be resolvable so Shadowrocket
+# can determine that the resulting IP belongs to Fastly.
+# ============================================================
 
 IP-CIDR,23.235.32.0/20
 IP-CIDR,43.249.72.0/22
