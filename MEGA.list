@@ -1,12 +1,8 @@
-# NAME: MEGA (AS203055)
-# Updated: 2026-08-24
+# MEGA IPv4 ranges
+# Normalized: 2026-10-03; original address coverage preserved.
+# Do not add no-resolve: these rules allow domain-to-IP matching.
 
-IP-CIDR,31.216.144.0/24
-IP-CIDR,31.216.145.0/24
-IP-CIDR,31.216.146.0/24
-IP-CIDR,31.216.147.0/24
+IP-CIDR,31.216.144.0/22
 IP-CIDR,31.216.148.0/24
-IP-CIDR,66.203.124.0/24
-IP-CIDR,66.203.125.0/24
-IP-CIDR,89.44.168.0/24
-IP-CIDR,89.44.169.0/24
+IP-CIDR,66.203.124.0/23
+IP-CIDR,89.44.168.0/23

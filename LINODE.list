@@ -1,14 +1,11 @@
-# Linode / Akamai Connected Cloud (https://ipgeo.akamai.com/linode-geofeed.csv)
-# Updated: 2026-08-24
+# LINODE IPv4 ranges
+# Normalized: 2026-10-03; original address coverage preserved.
+# Do not add no-resolve: these rules allow domain-to-IP matching.
 
-IP-CIDR,45.33.0.0/19
-IP-CIDR,45.33.32.0/19
+IP-CIDR,45.33.0.0/18
 IP-CIDR,45.33.64.0/19
 IP-CIDR,45.56.64.0/18
-IP-CIDR,45.79.0.0/18
-IP-CIDR,45.79.64.0/18
-IP-CIDR,45.79.128.0/18
-IP-CIDR,45.79.192.0/18
+IP-CIDR,45.79.0.0/16
 IP-CIDR,66.175.208.0/20
 IP-CIDR,66.228.32.0/19
 IP-CIDR,69.164.192.0/19
@@ -23,10 +20,8 @@ IP-CIDR,139.177.176.0/20
 IP-CIDR,139.177.192.0/20
 IP-CIDR,143.42.0.0/16
 IP-CIDR,172.104.0.0/15
-IP-CIDR,178.79.0.0/18
-IP-CIDR,178.79.64.0/18
+IP-CIDR,178.79.0.0/17
 IP-CIDR,178.79.128.0/18
-IP-CIDR,178.79.176.0/20
 IP-CIDR,192.46.208.0/20
 IP-CIDR,192.46.224.0/20
 IP-CIDR,192.53.112.0/20

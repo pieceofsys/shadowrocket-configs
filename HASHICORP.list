@@ -1,9 +1,5 @@
-# HashiCorp / Terraform
-# UPDATED: 2026-08-24
+# HASHICORP — supplemental domain rules
+# Updated: 2026-10-03
+# Requires the Blackmatrix and itdoginfo lists specified in README.md.
 
-DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,hashicorp.io
-DOMAIN-SUFFIX,terraform.io
-
-# Terraform Registry search
-DOMAIN,yy0ffni7mf-dsn.algolia.net

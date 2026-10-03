@@ -1,13 +1,12 @@
-# Custom proxy domains for Shadowrocket
-# UPDATED: 2026-10-03
-
+# PROXY — supplemental domain rules
+# Updated: 2026-10-03
+# Requires the Blackmatrix and itdoginfo lists specified in README.md.
 
 # Google / Android
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,yt3.googleusercontent.com
 
 # Google Ads / DoubleClick
 DOMAIN-SUFFIX,doubleclick.net
@@ -34,45 +33,22 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,radio.tvstitch.com
 DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlineradiobox.net
-DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,soundcloud.cloud
-DOMAIN-SUFFIX,sndcdn.com
 
 # Tools / misc
-DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,dnslytics.com
-DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hakaisecurity.io
 DOMAIN-SUFFIX,ru-board.com
 
 # NNM + NNM resources
 DOMAIN-SUFFIX,nnm-club.cc
-DOMAIN-SUFFIX,nnmclub.to
-DOMAIN-SUFFIX,nnmstatic.win
 DOMAIN-SUFFIX,fastpic.ru
-DOMAIN-SUFFIX,fastpic.org
 
 # Meshtastic
 DOMAIN-SUFFIX,meshtastic.org
 
-# Fastly infrastructure
-DOMAIN-SUFFIX,fastly.com
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,fastly-analytics.com
-DOMAIN-SUFFIX,edgecompute.app
-
 # Zuora
 DOMAIN-SUFFIX,zuora.com
-
-# GitHub
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,githubcopilot.com
 
 # ITdog
 DOMAIN-SUFFIX,itdog.info
