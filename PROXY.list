@@ -1,5 +1,5 @@
 # Custom proxy domains for Shadowrocket
-# UPDATED: 2026-09-01
+# UPDATED: 2026-10-03
 
 
 # Google / Android
@@ -73,3 +73,6 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,githubcopilot.com
+
+# ITdog
+DOMAIN-SUFFIX,itdog.info
